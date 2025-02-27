@@ -38,7 +38,7 @@
 - Developed custom WordPress-based entry registration and entry fee payment system.
 - Recruited and coordinated the efforts of 100+ judges, stewards, and staff members.
 
-**Significant Contribution to the Cider Industry** - American Cider Association (2017)
+**Significant Contribution to the Cider Industry** - [American Cider Association](https://ciderassociation.org/) (2017)
 - Fourth recipient of the prestigious annual award conferred by the industry’s largest trade organization.
 
 **Recognized Judge** - [Beer Judge Certification Program](https://www.bjcp.org/)
@@ -57,10 +57,10 @@
 - Middle school and high school math teacher and elementary school math remediation tutor.
 - Teacher and tutor of SAT, GRE, and GMAT test preparation materials.
 
-**MCPS Star Grant** - Montgomery County Public Schools (2009)
+**MCPS Star Grant** - [Montgomery County Public Schools](https://www.mcps.org/) (2009)
 - Co-recipient of an internal grant to create an online repository of virtual manipulatives and instructional resources for mathematics teachers.
 
-**BA Philosophy** - Indiana University (2006)
+**BA Philosophy** - [Indiana University](https://bloomington.iu.edu/) (2006)
 - Broad liberal arts background with coursework in history, literature, cognitive science, and information science.
 
 # Certifications
@@ -68,6 +68,9 @@
 **Project Management Professional (PMP)** - [Project Management Institute](https://www.pmi.org/certifications/project-management-pmp)
 - Acknowledges candidates who are skilled at managing the people, processes, and business priorities of professional projects.
 - Expires December 2026
+
+# Technical Skills
+ArcGIS Pro, ArcGIS Online, QGIS, [Tableau](https://public.tableau.com/app/profile/ericallanwest/vizzes), Excel/Sheets, WordPress, GitHub, Jira, Agile
 
 # Personal Pursuits
 
@@ -85,6 +88,3 @@
 
 **Pacific Crest Trail Thru-Hike** (April-September 2004)
 - Self-supported PCT [thru-hike](https://www.trailjournals.com/journal/2634) from the Mexican Border to the Canadian Border (2,650 miles).
-
-# Technical Skills
-ArcGIS Pro, ArcGIS Online, QGIS, [Tableau](https://public.tableau.com/app/profile/ericallanwest/vizzes), Excel/Sheets, WordPress, GitHub, Jira, Agile
