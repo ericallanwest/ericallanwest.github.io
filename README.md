@@ -24,7 +24,7 @@
 - Collaborated with UC Davis researchers using GitHub for version control and collaboration
 
 **The Sidman P. Poole Endowment in Geography** - [Virginia Tech](https://geography.vt.edu/academics/research-funding.html) (2019)
-- Recipient of a $1,500 grant to conduct trails-related fieldwork in Great Smoky Mountains National Park.
+- Recipient of a $1,500 grant to conduct trails-related fieldwork in Great Smoky Mountains National Park
 
 # Cider Experience
 
@@ -39,7 +39,7 @@
 - Recruited and coordinated the efforts of 100+ judges, stewards, and staff members
 
 **Significant Contribution to the Cider Industry** - American Cider Association (2017)
-- Fourth recipient of the prestigious annual award conferred by the industry’s largest trade organization.
+- Fourth recipient of the prestigious annual award conferred by the industry’s largest trade organization
 
 **Recognized Judge** - [Beer Judge Certification Program](https://www.bjcp.org/)
 - Awarded March 2013
@@ -58,29 +58,30 @@
 - Teacher and tutor of SAT, GRE, and GMAT test preparation materials
 
 **MCPS Star Grant** - Montgomery County Public Schools (2009)
-- Co-recipient of an internal grant to create an online repository of virtual manipulatives and instructional resources for mathematics teachers.
+- Co-recipient of an internal grant to create an online repository of virtual manipulatives and instructional resources for mathematics teachers
 
 **BA Philosophy** - Indiana University (2006)
-- Broad liberal arts background with coursework in history, literature, cognitive science, and information science.
+- Broad liberal arts background with coursework in history, literature, cognitive science, and information science
 
 # Certifications
 
 **Project Management Professional (PMP)** - [Project Management Institute](https://www.pmi.org/certifications/project-management-pmp)
+- Acknowledges candidates who are skilled at managing the people, processes, and business priorities of professional projects
 - Expires December 2026
 
 # Personal Pursuits
 
 **Great Smoky Mountains 900 Miler Club** (2019-2022)
-- Successful completion of all official hiking trails in the Smokies. See the [Great Smokies Circuit](https://completingthemap.com/great-smokies-circuit/) repository for details.
+- Successful completion of all official hiking trails in the Smokies. See the [Great Smokies Circuit](https://completingthemap.com/great-smokies-circuit/) repository for details
 
 **Western Europe Long-Distance Trails** (May-August 2006)
-- Successful self-supported backpacking trips on world-renowned hiking trails such as the Pennine Way (England), West Highland Way and Southern Upland Way (Scotland), GR20 (Corsica), and the Tour du Mont Blanc (Switzerland, Italy, France).
+- Successful self-supported backpacking trips on world-renowned hiking trails such as the Pennine Way (England), West Highland Way and Southern Upland Way (Scotland), GR20 (Corsica), and the Tour du Mont Blanc (Switzerland, Italy, France)
 
 **Appalachian Trail Thru-Hike** (March-July 2005)
-- Successful self-supported AT thru-hike from Springer Mountain to Mount Katahdin (2,175 miles).
+- Successful self-supported AT thru-hike from Springer Mountain to Mount Katahdin (2,175 miles)
 
 **Pacific Crest Trail Thru-Hike** (April-September 2004)
-- Successful self-supported PCT thru-hike from the Mexican Border to the Canadian Border (2,650 miles).
+- Successful self-supported PCT thru-hike from the Mexican Border to the Canadian Border (2,650 miles)
 
 # Technical Skills
 ArcGIS Pro, ArcGIS Online, QGIS, [Tableau](https://public.tableau.com/app/profile/ericallanwest/vizzes), Excel/Sheets, WordPress, GitHub, Jira, Agile
