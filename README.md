@@ -84,7 +84,7 @@ ArcGIS Pro, ArcGIS Online, QGIS, [Tableau](https://public.tableau.com/app/profil
 - Self-supported AT [thru-hike](https://www.trailjournals.com/journal/3073) from Springer Mountain to Mount Katahdin (2,175 miles).
 
 **Southern Tier Route Bikepacking** (February-March 2005)
-- Self-supported [bicycle tour]((https://www.crazyguyonabike.com/doc/825)) from St. Augustine, Florida to Austin, Texas (1,467 miles).
+- Self-supported [bicycle tour](https://www.crazyguyonabike.com/doc/825) from St. Augustine, Florida to Austin, Texas (1,467 miles).
 
 **Pacific Crest Trail Thru-Hike** (April-September 2004)
 - Self-supported PCT [thru-hike](https://www.trailjournals.com/journal/2634) from the Mexican Border to the Canadian Border (2,650 miles).
