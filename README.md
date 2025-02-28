@@ -26,13 +26,13 @@
 **The Sidman P. Poole Endowment in Geography** - [Virginia Tech](https://geography.vt.edu/academics/research-funding.html) (2019)
 - Recipient of a $1,500 grant to conduct trails-related fieldwork in Great Smoky Mountains National Park.
 
-# Certifications
+## Certifications
 
 **Project Management Professional (PMP)** - [Project Management Institute](https://www.pmi.org/certifications/project-management-pmp)
 - Acknowledges candidates who are skilled at managing the people, processes, and business priorities of professional projects.
 - Expires December 2026
 
-# Technical Skills
+## Technical Skills
 ArcGIS Pro, ArcGIS Online, QGIS, [Tableau](https://public.tableau.com/app/profile/ericallanwest/vizzes), Excel/Sheets, WordPress, GitHub, Jira, Agile
 
 # Cider Experience
