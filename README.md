@@ -1,4 +1,4 @@
-# GIS Experience
+# Geospatial Experience
 
 **GIS Specialist** - [WDM USA](https://www.wdm-int.com/) (2025-Present)
 - Analyze, visualize, and interpret spatial data to provide actionable insights.
