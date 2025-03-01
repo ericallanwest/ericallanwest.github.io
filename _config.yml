@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Eric West
-description: GIS Professional, Data Analyst, Project Manager
+description: This is my résumé, organized by career phase.
