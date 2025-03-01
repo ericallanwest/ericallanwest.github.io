@@ -75,7 +75,7 @@ ArcGIS Pro, ArcGIS Online, QGIS, [Tableau](https://public.tableau.com/app/profil
 # Personal Pursuits
 
 **Great Smoky Mountains 900 Miler Club** (2019-2022)
-- Successful completion of all official hiking trails in the Smokies. See the [Great Smokies Circuit](https://completingthemap.com/great-smokies-circuit/) repository for details.
+- Successful completion of all official hiking trails in the Smokies. See my [Great Smokies Circuit](https://completingthemap.com/great-smokies-circuit/) repository for details.
 
 **Western Europe Long-Distance Trails** (May-August 2006)
 - Successful self-supported backpacking trips on world-renowned hiking trails such as the Pennine Way (England), West Highland Way and Southern Upland Way (Scotland), GR20 (Corsica), and the Tour du Mont Blanc (Switzerland, Italy, France).
