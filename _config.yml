@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Eric West
-description: Geospatial professional, data analyst, project manager, cider expert, and educator based in Roanoke, Virginia. Visit the link below for my current projects.
+description: I am a geospatial professional, data analyst, project manager, cider expert, and educator based in Roanoke, Virginia.
