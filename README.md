@@ -4,13 +4,13 @@
 - Analyzing, visualizing, and interpreting spatial data to provide actionable insights.
 - Designing, developing, and managing spatial data and software tools.
 - Troubleshooting and resolving issues related to GIS applications, data integrity, and system performance.
-  - Tools: QGIS, GeoPandas, GDAL, Felt, Excel (Power Pivot / Power Query)
+- Tools: QGIS, GeoPandas, GDAL, Felt, Excel (Power Pivot / Power Query)
 
 **GIS Data Engineer** - [Torc Robotics](https://torc.ai/) (2020-2023)
 - Created and maintained high-definition vector maps for autonomous Freightliner trucks.
 - Tracked map health metrics for highways in Arizona, New Mexico, Oklahoma, and Texas.
 - Coordinated team efforts as Scrum Master, Product Owner, and Technical Product Manager.
-  - Tools: Java OpenStreetMap (JOSM), QGIS, Jira (Agile/Kanban), Confluence, Miro
+- Tools: Java OpenStreetMap (JOSM), QGIS, Jira (Agile/Kanban), Confluence, Miro
 
 **MS Geography** - [Virginia Tech](https://geography.vt.edu/) (2020)
 - Coursework focused on ArcGIS Pro, ArcGIS Online, ArcPy/Python, web mapping, remote sensing, and statistics.
