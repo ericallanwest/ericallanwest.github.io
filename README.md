@@ -44,7 +44,7 @@
 
 **Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
 - Podcast host and guest, conference speaker, weekly newsletter publisher, freelance writer.
-- Maintained the World Cider Map, the industry's most accurate directory of cidermakers. See my [ciderguide](https://ciderguide.com/) repository for details.
+- Maintained the World Cider Map, the industry's most accurate directory of cidermakers. See my [ciderguide](https://completingthemap.com/ciderguide/) repository for details.
 - Launched the Certified Cider Professional education and accreditation program.
 
 **Competition Director** - [Michigan Cider Association](https://michiganciders.com/) (2015-2023)
