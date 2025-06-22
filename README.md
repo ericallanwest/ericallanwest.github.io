@@ -1,66 +1,68 @@
 # Geospatial Experience
 
 **GIS Specialist** - [WDM USA](https://www.wdm-int.com/) (2025-Present)
-- Analyze, visualize, and interpret spatial data to provide actionable insights.
-- Design, develop, and manage spatial data and software tools.
-- Troubleshoot and resolve issues related to GIS applications, data integrity, and system performance.
+- Analyzing, visualizing, and interpreting spatial data to provide actionable insights.
+  - QGIS, GeoPandas, GDAL, Felt, Excel (Power Pivot / Power Query)
+- Designing, developing, and managing spatial data and software tools.
+- Troubleshooting and resolving issues related to GIS applications, data integrity, and system performance.
 
 **GIS Data Engineer** - [Torc Robotics](https://torc.ai/) (2020-2023)
 - Created and maintained high-definition vector maps for autonomous Freightliner trucks.
+  - Java OpenStreetMap (JOSM), QGIS, Excel
 - Tracked map health metrics for highways in Arizona, New Mexico, Oklahoma, and Texas.
 - Coordinated team efforts as Scrum Master, Product Owner, and Technical Product Manager.
+  - Jira (Agile/Kanban), Confluence, Miro
 
 **MS Geography** - [Virginia Tech](https://geography.vt.edu/) (2020)
-- Coursework focused on GIS, web mapping, ArcPy/Python programming, remote sensing, and statistics.
+- Coursework focused on ArcGIS Pro, ArcGIS Online, ArcPy/Python, web mapping, remote sensing, and statistics.
 - Graduate Teaching Assistant for Principles of GIS, Intro to Remote Sensing, and Geovisualization courses.
 - Research Project: _The Digitization of American Viticultural Area Boundaries - An Efficient Method for Constructing GIS Polygons from Federal Government Data Sources_.
 
 **Esri Developer Center Student of the Year** - [Esri](https://storymaps.arcgis.com/stories/62d7f7cc84e34d43960c2f0cc82ea2db#ref-n-6CSIVs) (2020)
-- Virginia Tech’s recipient of a $500 award for developing innovative applications with the ArcGIS platform.
+- Virginia Tech’s recipient of an annual award for developing innovative applications with the ArcGIS platform.
 
 **Geospatial Analyst** - [Center for Geospatial Information Technology](https://www.cgit.vt.edu/) (2019-2020)
-- Contributed 40+ American Viticultural Area (AVA) boundary polygons to open source project.
+- Contributed 40 American Viticultural Area (AVA) boundary polygons to [open source project](https://github.com/UCDavisLibrary/ava).
 - Developed an improved method for digitizing polygons using existing government datasets.
 - Collaborated with UC Davis researchers using GitHub for version control and collaboration.
 
 **The Sidman P. Poole Endowment in Geography** - [Virginia Tech](https://geography.vt.edu/academics/research-funding.html) (2019)
-- Recipient of a $1,500 grant to conduct trails-related fieldwork in Great Smoky Mountains National Park.
+- Recipient of a funded grant to conduct trails-related fieldwork in Great Smoky Mountains National Park.
 
-## Certifications
+### Certifications
 
 **Project Management Professional (PMP)** - [Project Management Institute](https://www.pmi.org/certifications/project-management-pmp)
 - Acknowledges candidates who are skilled at managing the people, processes, and business priorities of professional projects.
-- Expires December 2026
+- Requires 36 months (4,500 hours) of experience leading projects prior to certification.
 
-## Technical Skills
-ArcGIS Pro, ArcGIS Online, QGIS, [Tableau](https://public.tableau.com/app/profile/ericallanwest/vizzes), Excel/Sheets, WordPress, GitHub, Jira, Agile
+**Data Scientist: Analytics Specialist** - [Codecademy](https://www.codecademy.com/learn/paths/data-analyst)
+- Professional Certification - In Progress (64% Complete)
+
+**Business Intelligence Data Analyst** - [Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst)
+- Career Path Certificate - In Progress (88% Complete)
 
 # Cider Experience
 
-**Founder** - [Cider Guide](https://ciderguide.com/about/) (2012-2024)
+**Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
 - Podcast host and guest, conference speaker, weekly newsletter publisher, freelance writer.
+- Maintained the World Cider Map, the industry's most accurate directory of cidermakers. See my [ciderguide](https://ciderguide.com/) repository for details.
 - Launched the Certified Cider Professional education and accreditation program.
-- Member of the Data Insights Committee of the American Cider Association.
 
 **Competition Director** - [Michigan Cider Association](https://michiganciders.com/) (2015-2023)
-- Directed the Great Lakes International Cider & Perry Competition, the world's largest of its kind.
+- Directed the Great Lakes International Cider & Perry Competition, the world's largest cider judging.
 - Developed custom WordPress-based entry registration and entry fee payment system.
 - Recruited and coordinated the efforts of 100+ judges, stewards, and staff members.
 
 **Significant Contribution to the Cider Industry** - [American Cider Association](https://ciderassociation.org/) (2017)
 - Fourth recipient of the prestigious annual award conferred by the industry’s largest trade organization.
 
+### Certifications
+
 **Recognized Judge** - [Beer Judge Certification Program](https://www.bjcp.org/)
-- Awarded March 2013
 
 **Certified Cicerone** - [Cicerone Certification Program](https://www.cicerone.org/)
-- Awarded March 2012
 
 # Teaching Experience
-
-**Teaching License** - [Virginia Department of Education](https://vadoe.mylicense.com/verification/)
-- Endorsements: Mathematics (Grades 6-12), Social Science (Grades 6-8), English (Grades 6-8)
-- Expires June 2030
 
 **Teacher** - Various Schools (2007-2016)
 - Middle school and high school math teacher and elementary school math remediation tutor.
@@ -69,15 +71,20 @@ ArcGIS Pro, ArcGIS Online, QGIS, [Tableau](https://public.tableau.com/app/profil
 **MCPS Star Grant** - [Montgomery County Public Schools](https://www.mcps.org/) (2009)
 - Co-recipient of an internal grant to create an online repository of virtual manipulatives and instructional resources for mathematics teachers.
 
+### Education and Certifications
+
+**Teaching License** - [Virginia Department of Education](https://vadoe.mylicense.com/verification/)
+- Endorsements: Mathematics (All), Social Science (Grades 6-8), English (Grades 6-8)
+
 **BA Philosophy** - [Indiana University](https://bloomington.iu.edu/) (2006)
 - Broad liberal arts background with coursework in history, literature, cognitive science, and information science.
 
 # Personal Pursuits
 
 **Great Smoky Mountains 900 Miler Club** (2019-2022)
-- Successful completion of all official hiking trails in the Smokies. See my [Great Smokies Circuit](https://completingthemap.com/great-smokies-circuit/) repository for details.
+- Successful completion of all official hiking trails in the Smokies. See my [smokies](https://completingthemap.com/smokies/) repository for details.
 
-**Western Europe Long-Distance Trails** (May-August 2006)
+**Western European Long-Distance Trails** (May-August 2006)
 - Successful self-supported backpacking trips on world-renowned hiking trails such as the Pennine Way (England), West Highland Way and Southern Upland Way (Scotland), GR20 (Corsica), and the Tour du Mont Blanc (Switzerland, Italy, France).
 
 **Appalachian Trail Thru-Hike** (March-July 2005)
