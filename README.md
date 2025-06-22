@@ -79,18 +79,20 @@
 - Broad liberal arts background with coursework in history, literature, cognitive science, and information science.
 
 # Personal Pursuits
+**Appalachian Trail Maintenance**
+- Roanoke Appalachian Trail Club volunteer maintainer from Bailey Gap Shelter (Mile 660.9) to VA 613 (Mile 664.6).
 
 **Great Smoky Mountains 900 Miler Club** (2019-2022)
 - Successful completion of all official hiking trails in the Smokies. See my [smokies](https://completingthemap.com/smokies/) repository for details.
 
-**Western European Long-Distance Trails** (May-August 2006)
+**European Long-Distance Trails** (2006)
 - Successful self-supported backpacking trips on world-renowned hiking trails such as the Pennine Way (England), West Highland Way and Southern Upland Way (Scotland), GR20 (Corsica), and the Tour du Mont Blanc (Switzerland, Italy, France).
 
-**Appalachian Trail Thru-Hike** (March-July 2005)
+**Appalachian Trail Thru-Hike** (2005)
 - Self-supported AT [thru-hike](https://www.trailjournals.com/journal/3073) from Springer Mountain to Mount Katahdin (2,175 miles).
 
-**Southern Tier Route Bikepacking** (February-March 2005)
+**Southern Tier Route Bikepacking** (2005)
 - Self-supported [bicycle tour](https://www.crazyguyonabike.com/doc/825) from St. Augustine, Florida to Austin, Texas (1,467 miles).
 
-**Pacific Crest Trail Thru-Hike** (April-September 2004)
+**Pacific Crest Trail Thru-Hike** (2004)
 - Self-supported PCT [thru-hike](https://www.trailjournals.com/journal/2634) from the Mexican Border to the Canadian Border (2,650 miles).
