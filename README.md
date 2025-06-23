@@ -67,7 +67,7 @@
 - Middle school and high school math teacher and elementary school math remediation tutor.
 - Sponsor for Chess Club and MathCounts Club/Team.
 - Developed curriculum for summer enrichment courses on Japanese logic puzzles and video game design.
-- Presented workshops at state (VCTM) and local conferences on standards-based grading and logic puzzles.
+- Presented workshops at state and local conferences on standards-based grading and logic puzzles.
 
 **Teaching Assistant** - Radford University (2013-2017)
 - Developed curriculum and co-taught the graduate-level _Educational Technology: Applications, Applied Research and Integration_ and _Euclidean and Non-Euclidean Geometry_ courses for secondary mathematics teachers.
@@ -84,8 +84,10 @@
 - Broad liberal arts background with coursework in history, literature, cognitive science, and information science.
 
 # Personal Pursuits
-**Appalachian Trail Maintenance**
-- Roanoke Appalachian Trail Club volunteer maintainer from Bailey Gap Shelter (Mile 660.9) to VA 613 (Mile 664.6).
+
+**Appalachian Trail Maintenance** (2025-Present)
+- Roanoke Appalachian Trail Club maintainer from Bailey Gap Shelter (Mile 660.9) to VA 613 (Mile 664.6).
+- Builds on past experience as Catawba Mountain Ridgerunner for the Appalachian Trail Conservancy in 2012 and 2015.
 
 **Great Smoky Mountains 900 Miler Club** (2019-2022)
 - Successful completion of all official hiking trails in the Smokies. See my [smokies](https://completingthemap.com/smokies/) repository for details.
