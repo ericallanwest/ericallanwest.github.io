@@ -4,13 +4,13 @@
 - Analyzing, visualizing, and interpreting spatial data to provide actionable insights.
 - Designing, developing, and managing spatial data and software tools.
 - Troubleshooting and resolving issues related to GIS applications, data integrity, and system performance.
-- Tools: QGIS, GeoPandas, GDAL, Felt, Excel (Power Pivot / Power Query)
+- Tools: _QGIS, GeoPandas, GDAL, Felt, Excel (Power Pivot / Power Query)_
 
 **GIS Data Engineer** - [Torc Robotics](https://torc.ai/) (2020-2023)
 - Created and maintained high-definition vector maps for autonomous Freightliner trucks.
 - Tracked map health metrics for highways in Arizona, New Mexico, Oklahoma, and Texas.
 - Coordinated team efforts as Scrum Master, Product Owner, and Technical Product Manager.
-- Tools: Java OpenStreetMap (JOSM), QGIS, Jira (Agile/Kanban), Confluence, Miro
+- Tools: _Java OpenStreetMap (JOSM), QGIS, Jira (Agile/Kanban), Confluence, Miro_
 
 **MS Geography** - [Virginia Tech](https://geography.vt.edu/) (2020)
 - Coursework focused on ArcGIS Pro, ArcGIS Online, ArcPy/Python, web mapping, remote sensing, and statistics.
@@ -45,7 +45,7 @@
 **Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
 - Podcast host and guest, conference speaker, weekly newsletter publisher, freelance writer.
 - Maintained the World Cider Map, the industry's most accurate directory of cidermakers. See my [ciderguide](https://completingthemap.com/ciderguide/) repository for details.
-- Launched the Certified Cider Professional education and accreditation program.
+- Launched the Certified Cider Professional education and accreditation program for the American Cider Association.
 
 **Competition Director** - [Michigan Cider Association](https://michiganciders.com/) (2015-2023)
 - Directed the Great Lakes International Cider & Perry Competition, the world's largest cider judging.
@@ -65,7 +65,12 @@
 
 **Teacher** - Various Schools (2007-2016)
 - Middle school and high school math teacher and elementary school math remediation tutor.
-- Teacher and tutor of SAT, GRE, and GMAT test preparation materials.
+- Sponsor for Chess Club and MathCounts Club/Team.
+- Developed curriculum for summer enrichment courses on Japanese logic puzzles and video game design.
+- Presented workshops at state (VCTM) and local conferences on standards-based grading and logic puzzles.
+
+**Teaching Assistant** - Radford University (2013-2017)
+- Developed curriculum and co-taught the graduate-level _Educational Technology: Applications, Applied Research and Integration_ and _Euclidean and Non-Euclidean Geometry_ courses for secondary mathematics teachers.
 
 **MCPS Star Grant** - [Montgomery County Public Schools](https://www.mcps.org/) (2009)
 - Co-recipient of an internal grant to create an online repository of virtual manipulatives and instructional resources for mathematics teachers.
