@@ -46,7 +46,7 @@
 
 **Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
 - Podcast host and guest, weekly newsletter publisher, freelance writer, conference speaker, guided tasting expert.
-- Maintained the World Cider Map, the industry's most accurate directory of cidermakers. (See my ciderguide repo for details.)
+- Maintained the World Cider Map, the industry's most accurate directory of cidermakers. (See my [ciderguide](https://completingthemap.com/ciderguide/) repository for details.)
 - Launched the [Certified Cider Professional](https://ciderassociation.org/certification/) education and accreditation program for the American Cider Association.
 
 **Competition Director** - [Michigan Cider Association](https://michiganciders.com/) (2015-2023)
@@ -92,7 +92,7 @@
 - Builds on past experience as Catawba Mountain Ridgerunner for the [Appalachian Trail Conservancy](https://appalachiantrail.org/our-work/conservation/education-and-outreach/about-the-appalachian-trail-ridgerunner-program/) in 2012 and 2015.
 
 **Great Smoky Mountains 900 Miler Club** (2019-2022)
-- Successful completion of all official hiking trails in the Smokies. (See my Smokies repo for details.)
+- Successful completion of all official hiking trails in the Smokies. (See my [smokies](https://completingthemap.com/smokies/) repository for details.)
 
 **European Long-Distance Trails** (2006)
 - Successful self-supported backpacking trips on world-renowned hiking trails such as the Pennine Way (England), West Highland Way and Southern Upland Way (Scotland), GR20 (Corsica), and the Tour du Mont Blanc (Switzerland, Italy, France).
