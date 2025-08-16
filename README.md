@@ -33,7 +33,7 @@
 - Requires 36 months (4,500 hours) of experience leading projects prior to certification.
 - Acknowledges candidates who are skilled at managing the people, processes, and business priorities of professional projects.
 
-**Data Analyst in Python** [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python)
+**Data Analyst in Python** - [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python)
 - Career Track Certification - In Progress (11% Complete)
 
 **Data Scientist: Analytics Specialist** - [Codecademy](https://www.codecademy.com/learn/paths/data-analyst)
@@ -45,7 +45,7 @@
 # Cider Experience
 
 **Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
-- Podcast host and guest, weekly newsletter publisher, freelance writer, conference speaker, guided tasting expert.
+- Podcast host and guest, weekly newsletter publisher, freelance writer, conference speaker, and guided tasting expert.
 - Maintained the World Cider Map, the industry's most accurate directory of cidermakers. (See my [ciderguide](https://completingthemap.com/ciderguide/) repository for details.)
 - Launched the [Certified Cider Professional](https://ciderassociation.org/certification/) education and accreditation program for the American Cider Association.
 
@@ -68,7 +68,7 @@
 **Teacher** - Various Schools (2007-2016)
 - Middle school and high school math teacher and elementary school math remediation tutor.
 - Sponsored Chess Club at Blacksburg Middle School and MathCounts Club/Team at Blacksburg New School.
-- Developed curriculum for summer enrichment courses on Japanese logic puzzles and video game design.
+- Developed curriculum for summer enrichment courses on [Japanese logic puzzles](https://en.wikipedia.org/wiki/Nikoli_(publisher)#Nikoli_puzzles) and video game design.
 - Presented workshops at state and local conferences on standards-based grading and logic puzzles.
 
 **Teaching Assistant** - Radford University (2013-2017)
