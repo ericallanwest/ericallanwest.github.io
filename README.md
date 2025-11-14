@@ -82,7 +82,7 @@
 # Personal Pursuits
 
 **Appalachian Trail Maintenance** (2025-Present)
-- [Roanoke Appalachian Trail Club](https://www.ratc.org/) maintainer from Bailey Gap Shelter (Mile 660.9) to VA 613 (Mile 664.6).
+- [Roanoke Appalachian Trail Club](https://www.ratc.org/) maintainer from Bailey Gap Shelter (Mile 660.9) to VA 613 (Mile 664.6) and from Lone Pine Peak (Mile 667.0) to War Spur Connector Trail (Mile 668.0).
 - Builds on past experience as Catawba Mountain Ridgerunner for the [Appalachian Trail Conservancy](https://appalachiantrail.org/our-work/conservation/education-and-outreach/about-the-appalachian-trail-ridgerunner-program/) in 2012 and 2015.
 
 **Great Smoky Mountains 900 Miler Club** (2019-2022)
