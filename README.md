@@ -1,10 +1,10 @@
 # Geospatial Experience
 
 **GIS Specialist** - [WDM USA](https://www.wdm-int.com/) (2025-Present)
-- Analyzing, interpreting, and visualizing spatial data that provides pavement friction management insights for clients.
-- Developing tools and datasets that help clients prevent roadway departure, intersection, and pedestrian-related crashes.
+- Analyzing, interpreting, and visualizing spatial data that provides pavement friction management insights for state-level Department of Transportation (DOT) clients and related agencies.
+- Developing datasets, tools, dashboards, and visualizations that help stakeholders prioritize resurfacing projects to reduce wet weather, roadway departure, curve, intersection, and pedestrian-related crashes.
 - Troubleshooting and resolving issues related to GIS applications, data integrity, and system performance.
-- Tools: _QGIS, Jupyter Notebook, GeoPandas, Felt, Excel (Power Pivot and Power Query)_
+- Tools: _QGIS, Pandas/GeoPandas, Felt, Excel (Power Pivot and Power Query)_
 
 **GIS Data Engineer** - [Torc Robotics](https://torc.ai/) (2020-2023)
 - Created and maintained high-definition vector maps (closed courses and public roads) for self-driving Freightliner trucks.
