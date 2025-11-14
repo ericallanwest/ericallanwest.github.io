@@ -30,17 +30,11 @@
 ### Certifications
 
 **Project Management Professional (PMP)** - [Project Management Institute](https://www.pmi.org/certifications/project-management-pmp)
-- Requires 36 months (4,500 hours) of experience leading projects prior to certification.
 - Acknowledges candidates who are skilled at managing the people, processes, and business priorities of professional projects.
+- Requires 36 months (4,500 hours) of experience leading projects prior to certification.
 
 **Data Analyst in Python** - [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python)
-- Career Track Certification - In Progress (11% Complete)
-
-**Data Scientist: Analytics Specialist** - [Codecademy](https://www.codecademy.com/learn/paths/data-analyst)
-- Professional Certification - In Progress (64% Complete)
-
-**Business Intelligence Data Analyst** - [Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst)
-- Career Path Certificate - In Progress (88% Complete)
+- Career Track Certification - In Progress (18% Complete)
 
 # Cider Experience
 
