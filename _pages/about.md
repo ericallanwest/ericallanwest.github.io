@@ -7,50 +7,119 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+# Geospatial Experience
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+**GIS Specialist** - [WDM USA](https://www.wdm-int.com/) (2025-Present)
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- Analyzing, interpreting, and visualizing spatial data that provides pavement friction management insights for clients.
+- Developing tools and datasets that help clients prevent roadway departure, intersection, and pedestrian-related crashes.
+- Troubleshooting and resolving issues related to GIS applications, data integrity, and system performance.
+- Tools: _QGIS, Jupyter Notebook, GeoPandas, Felt, Excel (Power Pivot and Power Query)_
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**GIS Data Engineer** - [Torc Robotics](https://torc.ai/) (2020-2023)
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- Created and maintained high-definition vector maps (closed courses and public roads) for self-driving Freightliner trucks.
+- Tracked map health metrics and collaborated with forensics engineers to improve autonomous performance.
+- Coordinated mapping team efforts as Scrum Master, Product Owner, and Technical Product Manager.
+- Tools: _Java OpenStreetMap (JOSM), QGIS, Jira (Agile/Kanban), Confluence, Miro_
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**MS Geography** - [Virginia Tech](https://geography.vt.edu/) (2020)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- Coursework focused on ArcGIS Pro, ArcGIS Online, ArcPy/Python, web mapping, remote sensing, and statistics.
+- Graduate Teaching Assistant for _Principles of GIS_, _Intro to Remote Sensing_, and _Geovisualization_ courses.
+- Research Project: _The Digitization of American Viticultural Area Boundaries - An Efficient Method for Constructing GIS Polygons from Federal Government Data Sources_.
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**Geospatial Analyst** - [Center for Geospatial Information Technology](https://www.cgit.vt.edu/) (2019-2020)
 
-**Markdown generator**
+- Contributed 40 American Viticultural Area (AVA) boundary polygons to [open source project](https://github.com/UCDavisLibrary/ava).
+- Collaborated with UC Davis researchers using GitHub for version control and collaboration.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+**Esri Developer Center Student of the Year** - [Esri](https://storymaps.arcgis.com/stories/62d7f7cc84e34d43960c2f0cc82ea2db#ref-n-6CSIVs) (2020)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- Virginia Tech’s recipient of an annual award for developing innovative applications with the ArcGIS platform.
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+**Sidman P. Poole Endowment** - [Virginia Tech](https://geography.vt.edu/academics/research-funding.html) (2019)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- Recipient of a funded grant to conduct trails-related fieldwork in Great Smoky Mountains National Park.
+
+# Certifications
+
+**Project Management Professional (PMP)** - [Project Management Institute](https://www.pmi.org/certifications/project-management-pmp)
+
+- Requires 36 months (4,500 hours) of experience leading projects prior to certification.
+- Acknowledges candidates who are skilled at managing the people, processes, and business priorities of professional projects.
+
+**Data Analyst in Python** - [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python)
+
+- Career Track Certification - In Progress (11% Complete)
+
+**Data Scientist: Analytics Specialist** - [Codecademy](https://www.codecademy.com/learn/paths/data-analyst)
+
+- Professional Certification - In Progress (64% Complete)
+
+**Business Intelligence Data Analyst** - [Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst)
+
+- Career Path Certificate - In Progress (88% Complete)
+
+## Cider Experience
+
+**Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
+- Podcast host and guest, weekly newsletter publisher, freelance writer, conference speaker, and guided tasting expert.
+- Maintained the World Cider Map, the industry's most accurate directory of cidermakers. (See my [ciderguide](https://completingthemap.com/ciderguide/) repository for details.)
+- Launched the [Certified Cider Professional](https://ciderassociation.org/certification/) education and accreditation program for the American Cider Association.
+
+**Competition Director** - [Michigan Cider Association](https://michiganciders.com/) (2015-2023)
+- Directed the [Great Lakes International Cider & Perry Competition](https://michiganciders.com/glintcap/), the world's largest cider judging.
+- Developed custom WordPress-based entry registration and payment system that handled ~$100,000 in entry fees each year.
+- Recruited and coordinated the efforts of 100+ judges, stewards, and staff members over the three-day event.
+
+**Significant Contribution to the Cider Industry** - [American Cider Association](https://ciderassociation.org/) (2017)
+- Fourth recipient of the prestigious annual award conferred by the industry’s largest trade organization.
+
+### Certifications
+
+**Certified Cicerone** - [Cicerone Certification Program](https://www.cicerone.org/)
+
+**Recognized Judge** - [Beer Judge Certification Program](https://www.bjcp.org/)
+
+# Teaching Experience
+
+**Teacher** - Various Schools (2007-2016)
+- Middle school and high school math teacher and elementary school math remediation tutor.
+- Sponsored Chess Club at Blacksburg Middle School and MathCounts Club/Team at Blacksburg New School.
+- Developed curriculum for summer enrichment courses on [Japanese logic puzzles](https://en.wikipedia.org/wiki/Nikoli_(publisher)#Nikoli_puzzles) and video game design.
+- Presented workshops at state and local conferences on standards-based grading and logic puzzles.
+
+**Teaching Assistant** - Radford University (2013-2017)
+- Developed curriculum and co-taught the graduate-level _Educational Technology: Applications, Applied Research and Integration_ and _Euclidean and Non-Euclidean Geometry_ courses for secondary mathematics teachers.
+
+**MCPS Star Grant** - [Montgomery County Public Schools](https://www.mcps.org/) (2009)
+- Co-recipient of an internal grant to create an online repository of virtual manipulatives and instructional resources for mathematics teachers.
+
+### Education and Certifications
+
+**Teaching License** - [Virginia Department of Education](https://vadoe.mylicense.com/verification/)
+- Endorsements: Mathematics (All), Social Science (Grades 6-8), English (Grades 6-8)
+
+**BA Philosophy** - [Indiana University](https://bloomington.iu.edu/) (2006)
+- Broad liberal arts background with coursework in history, literature, cognitive science, and information science.
+
+# Personal Pursuits
+
+**Appalachian Trail Maintenance** (2025-Present)
+- [Roanoke Appalachian Trail Club](https://www.ratc.org/) maintainer from Bailey Gap Shelter (Mile 660.9) to VA 613 (Mile 664.6).
+- Builds on past experience as Catawba Mountain Ridgerunner for the [Appalachian Trail Conservancy](https://appalachiantrail.org/our-work/conservation/education-and-outreach/about-the-appalachian-trail-ridgerunner-program/) in 2012 and 2015.
+
+**Great Smoky Mountains 900 Miler Club** (2019-2022)
+- Successful completion of all official hiking trails in the Smokies. (See my [smokies](https://completingthemap.com/smokies/) repository for details.)
+
+**European Long-Distance Trails** (2006)
+- Successful self-supported backpacking trips on world-renowned hiking trails such as the Pennine Way (England), West Highland Way and Southern Upland Way (Scotland), GR20 (Corsica), and the Tour du Mont Blanc (Switzerland, Italy, France).
+
+**Appalachian Trail Thru-Hike** (2005)
+- Self-supported AT [thru-hike](https://www.trailjournals.com/journal/3073) from Springer Mountain to Mount Katahdin (2,175 miles).
+
+**Southern Tier Route Bikepacking** (2005)
+- Self-supported [bicycle tour](https://www.crazyguyonabike.com/doc/825) from St. Augustine, Florida to Austin, Texas (1,467 miles).
+**Pacific Crest Trail Thru-Hike** (2004)
+- Self-supported PCT [thru-hike](https://www.trailjournals.com/journal/2634) from the Mexican Border to the Canadian Border (2,650 miles).
