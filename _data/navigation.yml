@@ -12,10 +12,10 @@ main:
     url: /publications/
 
   - title: "Cider"
-    url: /talks/    
+    url: ./ericallanwest/ciderguide
 
   - title: "Smokies"
-    url: /teaching/    
+    url: ./ericallanwest/smokies
     
   # - title: "Portfolio"
   #   url: /portfolio/
