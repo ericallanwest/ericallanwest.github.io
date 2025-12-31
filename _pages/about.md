@@ -47,6 +47,8 @@ redirect_from:
 **Sidman P. Poole Endowment** - [Virginia Tech](https://geography.vt.edu/academics/research-funding.html) (2019)
 - Recipient of a funded grant to conduct trails-related fieldwork in Great Smoky Mountains National Park.
 
+---
+
 # 🍎 Cider
 
 ## 🏢 Professional Experience
@@ -72,6 +74,8 @@ redirect_from:
 
 **Certified Cicerone** - [Cicerone Certification Program](https://www.cicerone.org/) (2012)
 
+---
+
 # 🏫 Teaching
 
 ## 🏢 Professional Experience
@@ -95,6 +99,8 @@ redirect_from:
 
 **Bachelor of Arts in Philosophy** - [Indiana University](https://bloomington.iu.edu/) (2006)
 - Broad liberal arts background with coursework in history, literature, cognitive science, and information science.
+
+---
 
 # ⛰️ Personal
 
