@@ -12,10 +12,10 @@ main:
     url: /publications/
 
   - title: "Cider"
-    url: /ericallanwest/ciderguide
+    url: https://github.com/ericallanwest/ciderguide
 
   - title: "Smokies"
-    url: /ericallanwest/smokies
+    url: https://github.com/ericallanwest/smokies
     
   # - title: "Portfolio"
   #   url: /portfolio/
