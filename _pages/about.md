@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## 🗺️ Geospatial Experience
+## 🗺️ Geospatial
 
 **GIS Specialist** - [WDM USA](https://www.wdm-int.com/) (2025-Present)
 - Analyze, interpret, and visualize spatial data that provides pavement friction management insights for state-level Department of Transportation (DOT) clients and related agencies.
@@ -25,7 +25,7 @@ redirect_from:
 - Contributed 40 American Viticultural Area (AVA) boundary polygons to [open source project](https://github.com/UCDavisLibrary/ava).
 - Collaborated with UC Davis researchers using GitHub for version control and collaboration.
 
-### 🏅 Education, Certifications, and Awards
+## 🗺️🏅 Geospatial — Education, Certifications, and Awards
 
 **Data Analyst in Python** - [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python) (In Progress)
 - Career Track Certification - 18% Complete
@@ -45,12 +45,12 @@ redirect_from:
 **Sidman P. Poole Endowment** - [Virginia Tech](https://geography.vt.edu/academics/research-funding.html) (2019)
 - Recipient of a funded grant to conduct trails-related fieldwork in Great Smoky Mountains National Park.
 
-## 🍎 Cider Experience
+## 🍎 Cider
 
 **Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
 - Podcast host and guest, weekly newsletter publisher, freelance writer, conference speaker, and guided tasting expert.
 - Maintained the World Cider Map, the industry's most accurate directory of cidermakers. (See my [ciderguide](https://ericallanwest.github.io/smokies/) repository for details.)
-- Launched the [Certified Cider Professional](https://ciderassociation.org/certification/) education and accreditation program for the American Cider Association.
+- Launched the [C—ertified Cider Professional](https://ciderassociation.org/certification/) education and accreditation program for the American Cider Association.
 - Judged cider at the Royal Bath & West Show, Australian Cider Awards, Virginia Governor's Cup, and other major competitions.
 
 **Competition Director** - [Michigan Cider Association](https://michiganciders.com/) (2015-2023)
@@ -59,7 +59,7 @@ redirect_from:
 - Recruited and coordinated the efforts of 100+ judges, stewards, and staff members over the three-day event.
 - Served as judge (2012) and assistant director (2013-2014) prior to assuming leadership of the competition.
 
-### 🏅 Education, Certifications, and Awards
+### 🍎🏅 Cider — Education, Certifications, and Awards
 
 **Significant Contribution to the Cider Industry** - [American Cider Association](https://ciderassociation.org/) (2017)
 - Fourth recipient of the prestigious annual award conferred by the industry’s largest trade organization.
@@ -68,7 +68,7 @@ redirect_from:
 
 **Certified Cicerone** - [Cicerone Certification Program](https://www.cicerone.org/) (2012)
 
-## 🏫 Teaching Experience
+## 🏫 Teaching
 
 **Teacher** - Various Schools (2007-2016)
 - Middle school and high school math teacher and elementary school math remediation tutor.
@@ -79,7 +79,7 @@ redirect_from:
 **Teaching Assistant** - Radford University (2013-2017)
 - Developed curriculum and co-taught the graduate-level _Educational Technology: Applications, Applied Research and Integration_ and _Euclidean and Non-Euclidean Geometry_ courses for secondary mathematics teachers.
 
-### 🏅 Education, Certifications, and Awards
+### 🏫🏅 Teaching — Education, Certifications, and Awards
 
 **Teaching License** - [Virginia Department of Education](https://vadoe.mylicense.com/verification/) (2008-Present)
 - Endorsements: Mathematics (All), Social Science (Grades 6-8), English (Grades 6-8)
