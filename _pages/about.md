@@ -49,7 +49,7 @@ redirect_from:
 
 # 🍎 Cider
 
-### Professional Experience
+## Professional Experience
 
 **Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
 - Podcast host and guest, weekly newsletter publisher, freelance writer, conference speaker, and guided tasting expert.
@@ -63,7 +63,7 @@ redirect_from:
 - Recruited and coordinated the efforts of 100+ judges, stewards, and staff members over the three-day event.
 - Served as judge (2012) and assistant director (2013-2014) prior to assuming primary leadership for the competition.
 
-### Education, Certifications, and Awards
+## Education, Certifications, and Awards
 
 **Significant Contribution to the Cider Industry** - [American Cider Association](https://ciderassociation.org/) (2017)
 - Fourth recipient of the prestigious annual award conferred by the industry’s largest trade organization.
@@ -74,7 +74,7 @@ redirect_from:
 
 # 🏫 Teaching
 
-### Professional Experience
+## Professional Experience
 
 **Teacher** - Various Schools (2007-2016)
 - Middle school and high school math teacher and elementary school math remediation tutor.
@@ -85,7 +85,7 @@ redirect_from:
 **Teaching Assistant** - Radford University (2013-2017)
 - Developed curriculum and co-taught the graduate-level _Educational Technology: Applications, Applied Research and Integration_ and _Euclidean and Non-Euclidean Geometry_ courses for secondary mathematics teachers.
 
-### Education, Certifications, and Awards
+## Education, Certifications, and Awards
 
 **Teaching License** - [Virginia Department of Education](https://vadoe.mylicense.com/verification/) (2008-Present)
 - Endorsements: Mathematics (All), Social Science (Grades 6-8), English (Grades 6-8)
