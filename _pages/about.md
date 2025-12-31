@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# 🗺️ Geospatial
+# 🗺️ Geospatial Career
 
 ## 🏢 Professional Experience
 
@@ -47,7 +47,7 @@ redirect_from:
 **Sidman P. Poole Endowment** - [Virginia Tech](https://geography.vt.edu/academics/research-funding.html) (2019)
 - Recipient of a funded grant to conduct trails-related fieldwork in Great Smoky Mountains National Park.
 
-# 🍎 Cider
+# 🍎 Cider Career
 
 ## 🏢 Professional Experience
 
@@ -72,7 +72,7 @@ redirect_from:
 
 **Certified Cicerone** - [Cicerone Certification Program](https://www.cicerone.org/) (2012)
 
-# 🏫 Teaching
+# 🏫 Teaching Career
 
 ## 🏢 Professional Experience
 
@@ -96,7 +96,7 @@ redirect_from:
 **Bachelor of Arts in Philosophy** - [Indiana University](https://bloomington.iu.edu/) (2006)
 - Broad liberal arts background with coursework in history, literature, cognitive science, and information science.
 
-# ⛰️ Personal
+# ⛰️ Personal Pursuits
 
 **Appalachian Trail Maintenance** (2025-Present)
 - [Roanoke Appalachian Trail Club](https://www.ratc.org/) volunteer maintainer from Bailey Gap Shelter (Mile 660.9) to VA 613 (Mile 664.6) and from Lone Pine Peak (Mile 667.0) to War Spur Connector Trail (Mile 668.0).
