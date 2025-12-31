@@ -25,7 +25,7 @@ redirect_from:
 - Contributed 40 American Viticultural Area (AVA) boundary polygons to [open source project](https://github.com/UCDavisLibrary/ava).
 - Collaborated with UC Davis researchers using GitHub for version control and collaboration.
 
-## 🗺️🏅 Geospatial — Education, Certifications, and Awards
+## 🗺️🏅 Education, Certifications, and Awards
 
 **Data Analyst in Python** - [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python) (In Progress)
 - Career Track Certification - 18% Complete
@@ -59,7 +59,7 @@ redirect_from:
 - Recruited and coordinated the efforts of 100+ judges, stewards, and staff members over the three-day event.
 - Served as judge (2012) and assistant director (2013-2014) prior to assuming leadership of the competition.
 
-## 🍎🏅 Cider — Education, Certifications, and Awards
+## 🍎🏅 Education, Certifications, and Awards
 
 **Significant Contribution to the Cider Industry** - [American Cider Association](https://ciderassociation.org/) (2017)
 - Fourth recipient of the prestigious annual award conferred by the industry’s largest trade organization.
@@ -79,7 +79,7 @@ redirect_from:
 **Teaching Assistant** - Radford University (2013-2017)
 - Developed curriculum and co-taught the graduate-level _Educational Technology: Applications, Applied Research and Integration_ and _Euclidean and Non-Euclidean Geometry_ courses for secondary mathematics teachers.
 
-## 🏫🏅 Teaching — Education, Certifications, and Awards
+## 🏫🏅 Education, Certifications, and Awards
 
 **Teaching License** - [Virginia Department of Education](https://vadoe.mylicense.com/verification/) (2008-Present)
 - Endorsements: Mathematics (All), Social Science (Grades 6-8), English (Grades 6-8)
