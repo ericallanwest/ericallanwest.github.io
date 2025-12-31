@@ -7,53 +7,49 @@ redirect_from:
   - /about.html
 ---
 
-# Geospatial Experience
+# Geospatial Career
+
+### Professional Experience
 
 **GIS Specialist** - [WDM USA](https://www.wdm-int.com/) (2025-Present)
-
 - Analyzing, interpreting, and visualizing spatial data that provides pavement friction management insights for clients.
 - Developing tools and datasets that help clients prevent roadway departure, intersection, and pedestrian-related crashes.
 - Troubleshooting and resolving issues related to GIS applications, data integrity, and system performance.
 - Tools: _QGIS, Pandas/GeoPandas, Felt, Excel Power Pivot_
 
 **GIS Data Engineer** - [Torc Robotics](https://torc.ai/) (2020-2023)
-
 - Created and maintained high-definition vector maps (closed courses and public roads) for self-driving Freightliner trucks.
 - Tracked map health metrics and collaborated with forensics engineers to improve autonomous performance.
 - Coordinated mapping team efforts as Scrum Master, Product Owner, and Technical Product Manager.
 - Tools: _Java OpenStreetMap (JOSM), QGIS, Jira (Agile/Kanban), Confluence, Miro_
 
 **Geospatial Analyst** - [Center for Geospatial Information Technology](https://www.cgit.vt.edu/) (2019-2020)
-
 - Contributed 40 American Viticultural Area (AVA) boundary polygons to [open source project](https://github.com/UCDavisLibrary/ava).
 - Collaborated with UC Davis researchers using GitHub for version control and collaboration.
 
-## Education, Certifications, and Awards
+### Education, Certifications, and Awards
 
 **Data Analyst in Python** - [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python) (In Progress)
-
 - Career Track Certification - 18% Complete
 
 **Project Management Professional (PMP)** - [Project Management Institute](https://www.pmi.org/certifications/project-management-pmp) (2023-Present)
-
 - Requires 36 months (4,500 hours) of experience leading projects prior to certification.
 - Acknowledges candidates who are skilled at managing the people, processes, and business priorities of professional projects.
 
 **MS Geography** - [Virginia Tech](https://geography.vt.edu/) (2020)
-
 - Coursework focused on ArcGIS Pro, ArcGIS Online, ArcPy/Python, web mapping, remote sensing, and statistics.
 - Graduate Teaching Assistant for _Principles of GIS_, _Intro to Remote Sensing_, and _Geovisualization_ courses.
 - Research Project: _The Digitization of American Viticultural Area Boundaries - An Efficient Method for Constructing GIS Polygons from Federal Government Data Sources_.
 
 **Esri Developer Center Student of the Year** - [Esri](https://storymaps.arcgis.com/stories/62d7f7cc84e34d43960c2f0cc82ea2db#ref-n-6CSIVs) (2020)
-
 - Virginia Tech’s recipient of an annual award for developing innovative applications with the ArcGIS platform.
 
 **Sidman P. Poole Endowment** - [Virginia Tech](https://geography.vt.edu/academics/research-funding.html) (2019)
-
 - Recipient of a funded grant to conduct trails-related fieldwork in Great Smoky Mountains National Park.
 
-# Cider Experience
+# Cider Career
+
+### Professional Experience
 
 **Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
 - Podcast host and guest, weekly newsletter publisher, freelance writer, conference speaker, and guided tasting expert.
@@ -67,8 +63,7 @@ redirect_from:
 - Recruited and coordinated the efforts of 100+ judges, stewards, and staff members over the three-day event.
 - Served as judge in 2012 and assistant director in 2013-2014 prior to assuming leadership.
 
-## Education, Certifications, and Awards
-
+### Education, Certifications, and Awards
 **Significant Contribution to the Cider Industry** - [American Cider Association](https://ciderassociation.org/) (2017)
 - Fourth recipient of the prestigious annual award conferred by the industry’s largest trade organization.
 
@@ -76,7 +71,9 @@ redirect_from:
 
 **Certified Cicerone** - [Cicerone Certification Program](https://www.cicerone.org/) (2012)
 
-# Teaching Experience
+# Teaching Career
+
+### Professional Experience
 
 **Teacher** - Various Schools (2007-2016)
 - Middle school and high school math teacher and elementary school math remediation tutor.
@@ -87,7 +84,7 @@ redirect_from:
 **Teaching Assistant** - Radford University (2013-2017)
 - Developed curriculum and co-taught the graduate-level _Educational Technology: Applications, Applied Research and Integration_ and _Euclidean and Non-Euclidean Geometry_ courses for secondary mathematics teachers.
 
-## Education, Certifications, and Awards
+### Education, Certifications, and Awards
 
 **Teaching License** - [Virginia Department of Education](https://vadoe.mylicense.com/verification/) (2008-Present)
 - Endorsements: Mathematics (All), Social Science (Grades 6-8), English (Grades 6-8)
@@ -124,4 +121,3 @@ redirect_from:
 
 **Pacific Crest Trail Thru-Hike** (2004)
 - Self-supported PCT [thru-hike](https://www.trailjournals.com/journal/2634) from the Mexican Border to the Canadian Border (2,650 miles).
-
