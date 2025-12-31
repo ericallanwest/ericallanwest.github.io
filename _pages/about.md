@@ -61,7 +61,7 @@ redirect_from:
 - Directed the [Great Lakes International Cider & Perry Competition](https://michiganciders.com/glintcap/), the world's largest cider judging.
 - Developed custom WordPress-based entry registration and payment system that handled ~$100,000 in entry fees each year.
 - Recruited and coordinated the efforts of 100+ judges, stewards, and staff members over the three-day event.
-- Served as judge (2012) and assistant director (2013-2014) prior to assuming primary leadership for the competition.
+- Served as judge (2012) and assistant director (2013-2014) prior to assuming leadership of the competition.
 
 ## 🏅 Education, Certifications, and Awards
 
@@ -99,7 +99,7 @@ redirect_from:
 # ⛰️ Personal
 
 **Appalachian Trail Maintenance** (2025-Present)
-- [Roanoke Appalachian Trail Club](https://www.ratc.org/) volunteer maintainer from Bailey Gap Shelter (Mile 660.9) to VA 613 (Mile 664.6) and from Lone Pine Peak (Mile 667.0) to War Spur Connector Trail (Mile 668.0).
+- Volunteer maintainer for the [Roanoke Appalachian Trail Club](https://www.ratc.org/) from Bailey Gap Shelter (Mile 660.9) to VA 613 (Mile 664.6) and from Lone Pine Peak (Mile 667.0) to War Spur Connector Trail (Mile 668.0).
 - Builds on past experience as Catawba Mountain Ridgerunner for the [Appalachian Trail Conservancy](https://appalachiantrail.org/our-work/conservation/education-and-outreach/about-the-appalachian-trail-ridgerunner-program/) in 2012 and 2015.
 
 **Pickleball** (2024-Present)
