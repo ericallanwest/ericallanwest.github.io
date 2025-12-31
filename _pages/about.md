@@ -9,7 +9,7 @@ redirect_from:
 
 # 🗺️ Geospatial
 
-## Professional Experience
+### 🏢 Professional Experience
 
 **GIS Specialist** - [WDM USA](https://www.wdm-int.com/) (2025-Present)
 - Analyze, interpret, and visualize spatial data that provides pavement friction management insights for state-level Department of Transportation (DOT) clients and related agencies.
@@ -27,7 +27,7 @@ redirect_from:
 - Contributed 40 American Viticultural Area (AVA) boundary polygons to [open source project](https://github.com/UCDavisLibrary/ava).
 - Collaborated with UC Davis researchers using GitHub for version control and collaboration.
 
-## Education, Certifications, and Awards
+### 🏅 Education, Certifications, and Awards
 
 **Data Analyst in Python** - [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python) (In Progress)
 - Career Track Certification - 18% Complete
@@ -49,7 +49,7 @@ redirect_from:
 
 # 🍎 Cider
 
-## Professional Experience
+### 🏢 Professional Experience
 
 **Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
 - Podcast host and guest, weekly newsletter publisher, freelance writer, conference speaker, and guided tasting expert.
@@ -63,7 +63,7 @@ redirect_from:
 - Recruited and coordinated the efforts of 100+ judges, stewards, and staff members over the three-day event.
 - Served as judge (2012) and assistant director (2013-2014) prior to assuming primary leadership for the competition.
 
-## Education, Certifications, and Awards
+### 🏅 Education, Certifications, and Awards
 
 **Significant Contribution to the Cider Industry** - [American Cider Association](https://ciderassociation.org/) (2017)
 - Fourth recipient of the prestigious annual award conferred by the industry’s largest trade organization.
@@ -74,7 +74,7 @@ redirect_from:
 
 # 🏫 Teaching
 
-## Professional Experience
+### 🏢 Professional Experience
 
 **Teacher** - Various Schools (2007-2016)
 - Middle school and high school math teacher and elementary school math remediation tutor.
@@ -85,7 +85,7 @@ redirect_from:
 **Teaching Assistant** - Radford University (2013-2017)
 - Developed curriculum and co-taught the graduate-level _Educational Technology: Applications, Applied Research and Integration_ and _Euclidean and Non-Euclidean Geometry_ courses for secondary mathematics teachers.
 
-## Education, Certifications, and Awards
+### 🏅 Education, Certifications, and Awards
 
 **Teaching License** - [Virginia Department of Education](https://vadoe.mylicense.com/verification/) (2008-Present)
 - Endorsements: Mathematics (All), Social Science (Grades 6-8), English (Grades 6-8)
@@ -112,7 +112,7 @@ redirect_from:
 - Built and maintained an off-grid [cob](https://en.wikipedia.org/wiki/Cob_(material)) cottage using solar panels for electricity and a wood-burning stove for heat.
 
 **European Long-Distance Trails** (2006)
-- Successful self-supported backpacking trips on world-renowned hiking trails such as the Pennine Way (England), West Highland Way and Southern Upland Way (Scotland), GR20 (Corsica), and Tour du Mont Blanc (Switzerland, Italy, France).
+- Self-supported backpacking trips on world-renowned hiking trails such as the Pennine Way (England), West Highland Way and Southern Upland Way (Scotland), GR20 (Corsica), and Tour du Mont Blanc (Switzerland, Italy, France).
 
 **Appalachian Trail Thru-Hike** (2005)
 - Self-supported AT [thru-hike](https://www.trailjournals.com/journal/3073) from Springer Mountain to Mount Katahdin (2,175 miles).
