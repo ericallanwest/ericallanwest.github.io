@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 # Geospatial Experience
 
 **GIS Specialist** - [WDM USA](https://www.wdm-int.com/) (2025-Present)
