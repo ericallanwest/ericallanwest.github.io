@@ -1,96 +1,117 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Geospatial Experience
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+**GIS Specialist** - [WDM USA](https://www.wdm-int.com/) (2025-Present)
 
-# Getting Started
+- Analyzing, interpreting, and visualizing spatial data that provides pavement friction management insights for clients.
+- Developing tools and datasets that help clients prevent roadway departure, intersection, and pedestrian-related crashes.
+- Troubleshooting and resolving issues related to GIS applications, data integrity, and system performance.
+- Tools: _QGIS, Jupyter Notebook, GeoPandas, Felt, Excel (Power Pivot and Power Query)_
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+**GIS Data Engineer** - [Torc Robotics](https://torc.ai/) (2020-2023)
 
-See more info at https://academicpages.github.io/
+- Created and maintained high-definition vector maps (closed courses and public roads) for self-driving Freightliner trucks.
+- Tracked map health metrics and collaborated with forensics engineers to improve autonomous performance.
+- Coordinated mapping team efforts as Scrum Master, Product Owner, and Technical Product Manager.
+- Tools: _Java OpenStreetMap (JOSM), QGIS, Jira (Agile/Kanban), Confluence, Miro_
 
-## Running locally
+**MS Geography** - [Virginia Tech](https://geography.vt.edu/) (2020)
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+- Coursework focused on ArcGIS Pro, ArcGIS Online, ArcPy/Python, web mapping, remote sensing, and statistics.
+- Graduate Teaching Assistant for _Principles of GIS_, _Intro to Remote Sensing_, and _Geovisualization_ courses.
+- Research Project: _The Digitization of American Viticultural Area Boundaries - An Efficient Method for Constructing GIS Polygons from Federal Government Data Sources_.
 
-1. Clone the repository and made updates as detailed above.
+**Geospatial Analyst** - [Center for Geospatial Information Technology](https://www.cgit.vt.edu/) (2019-2020)
 
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
+- Contributed 40 American Viticultural Area (AVA) boundary polygons to [open source project](https://github.com/UCDavisLibrary/ava).
+- Collaborated with UC Davis researchers using GitHub for version control and collaboration.
 
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+**Esri Developer Center Student of the Year** - [Esri](https://storymaps.arcgis.com/stories/62d7f7cc84e34d43960c2f0cc82ea2db#ref-n-6CSIVs) (2020)
 
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
+- Virginia Tech’s recipient of an annual award for developing innovative applications with the ArcGIS platform.
 
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change to Markdown (*.md) and HTML files, while changes to the core template and configuration (i.e., `_config.yml`) will require stoping and restarting Jekyll.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
+**Sidman P. Poole Endowment** - [Virginia Tech](https://geography.vt.edu/academics/research-funding.html) (2019)
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+- Recipient of a funded grant to conduct trails-related fieldwork in Great Smoky Mountains National Park.
 
-## Using Docker
+# Certifications
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
+**Project Management Professional (PMP)** - [Project Management Institute](https://www.pmi.org/certifications/project-management-pmp)
 
-You can build and execute the container by running the following command in the repository:
+- Requires 36 months (4,500 hours) of experience leading projects prior to certification.
+- Acknowledges candidates who are skilled at managing the people, processes, and business priorities of professional projects.
 
-```bash
-chmod -R 777 .
-docker compose up
-```
+**Data Analyst in Python** - [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python)
 
-You should now be able to access the website from `localhost:4000`.
+- Career Track Certification - In Progress (11% Complete)
 
-### Using the DevContainer in VS Code
+**Data Scientist: Analytics Specialist** - [Codecademy](https://www.codecademy.com/learn/paths/data-analyst)
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development container configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+- Professional Certification - In Progress (64% Complete)
 
-# Maintenance
+**Business Intelligence Data Analyst** - [Codecademy](https://www.codecademy.com/learn/paths/bi-data-analyst)
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+- Career Path Certificate - In Progress (88% Complete)
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+## Cider Experience
 
-## Bugfixes and enhancements
+**Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
+- Podcast host and guest, weekly newsletter publisher, freelance writer, conference speaker, and guided tasting expert.
+- Maintained the World Cider Map, the industry's most accurate directory of cidermakers. (See my [ciderguide](https://completingthemap.com/ciderguide/) repository for details.)
+- Launched the [Certified Cider Professional](https://ciderassociation.org/certification/) education and accreditation program for the American Cider Association.
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+**Competition Director** - [Michigan Cider Association](https://michiganciders.com/) (2015-2023)
+- Directed the [Great Lakes International Cider & Perry Competition](https://michiganciders.com/glintcap/), the world's largest cider judging.
+- Developed custom WordPress-based entry registration and payment system that handled ~$100,000 in entry fees each year.
+- Recruited and coordinated the efforts of 100+ judges, stewards, and staff members over the three-day event.
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+**Significant Contribution to the Cider Industry** - [American Cider Association](https://ciderassociation.org/) (2017)
+- Fourth recipient of the prestigious annual award conferred by the industry’s largest trade organization.
 
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+### Certifications
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+**Certified Cicerone** - [Cicerone Certification Program](https://www.cicerone.org/)
+
+**Recognized Judge** - [Beer Judge Certification Program](https://www.bjcp.org/)
+
+# Teaching Experience
+
+**Teacher** - Various Schools (2007-2016)
+- Middle school and high school math teacher and elementary school math remediation tutor.
+- Sponsored Chess Club at Blacksburg Middle School and MathCounts Club/Team at Blacksburg New School.
+- Developed curriculum for summer enrichment courses on [Japanese logic puzzles](https://en.wikipedia.org/wiki/Nikoli_(publisher)#Nikoli_puzzles) and video game design.
+- Presented workshops at state and local conferences on standards-based grading and logic puzzles.
+
+**Teaching Assistant** - Radford University (2013-2017)
+- Developed curriculum and co-taught the graduate-level _Educational Technology: Applications, Applied Research and Integration_ and _Euclidean and Non-Euclidean Geometry_ courses for secondary mathematics teachers.
+
+**MCPS Star Grant** - [Montgomery County Public Schools](https://www.mcps.org/) (2009)
+- Co-recipient of an internal grant to create an online repository of virtual manipulatives and instructional resources for mathematics teachers.
+
+### Education and Certifications
+
+**Teaching License** - [Virginia Department of Education](https://vadoe.mylicense.com/verification/)
+- Endorsements: Mathematics (All), Social Science (Grades 6-8), English (Grades 6-8)
+
+**BA Philosophy** - [Indiana University](https://bloomington.iu.edu/) (2006)
+- Broad liberal arts background with coursework in history, literature, cognitive science, and information science.
+
+# Personal Pursuits
+
+**Appalachian Trail Maintenance** (2025-Present)
+- [Roanoke Appalachian Trail Club](https://www.ratc.org/) maintainer from Bailey Gap Shelter (Mile 660.9) to VA 613 (Mile 664.6).
+- Builds on past experience as Catawba Mountain Ridgerunner for the [Appalachian Trail Conservancy](https://appalachiantrail.org/our-work/conservation/education-and-outreach/about-the-appalachian-trail-ridgerunner-program/) in 2012 and 2015.
+
+**Great Smoky Mountains 900 Miler Club** (2019-2022)
+- Successful completion of all official hiking trails in the Smokies. (See my [smokies](https://completingthemap.com/smokies/) repository for details.)
+
+**European Long-Distance Trails** (2006)
+- Successful self-supported backpacking trips on world-renowned hiking trails such as the Pennine Way (England), West Highland Way and Southern Upland Way (Scotland), GR20 (Corsica), and the Tour du Mont Blanc (Switzerland, Italy, France).
+
+**Appalachian Trail Thru-Hike** (2005)
+- Self-supported AT [thru-hike](https://www.trailjournals.com/journal/3073) from Springer Mountain to Mount Katahdin (2,175 miles).
+
+**Southern Tier Route Bikepacking** (2005)
+- Self-supported [bicycle tour](https://www.crazyguyonabike.com/doc/825) from St. Augustine, Florida to Austin, Texas (1,467 miles).
+
+**Pacific Crest Trail Thru-Hike** (2004)
+- Self-supported PCT [thru-hike](https://www.trailjournals.com/journal/2634) from the Mexican Border to the Canadian Border (2,650 miles).
