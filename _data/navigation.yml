@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  # - title: "Portfolio"
-  #   url: /publications/
+  - title: "Resume"
+    url: /resume/
 
   - title: "Cider"
     url: https://ericallanwest.github.io/ciderguide
