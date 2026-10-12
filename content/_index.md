@@ -44,7 +44,7 @@ title: "Eric West"
 **Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
 - Podcast host and guest, weekly newsletter publisher, freelance writer, conference speaker, and guided tasting expert.
 - Maintained the World Cider Map, the industry's most accurate directory of cidermakers. (See my [ciderguide](https://ericallanwest.github.io/ciderguide/) repository for details.)
-- Launched the [C—ertified Cider Professional](https://ciderassociation.org/certification/) education and accreditation program for the American Cider Association.
+- Launched the [Certified Cider Professional](https://ciderassociation.org/certification/) education and accreditation program for the American Cider Association.
 - Judged cider at the Royal Bath & West Show, Australian Cider Awards, Virginia Governor's Cup, and other major competitions.
 
 **Competition Director** - [Michigan Cider Association](https://michiganciders.com/) (2015-2023)
