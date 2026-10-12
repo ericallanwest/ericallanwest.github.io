@@ -43,7 +43,7 @@ title: "Eric West"
 
 **Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
 - Podcast host and guest, weekly newsletter publisher, freelance writer, conference speaker, and guided tasting expert.
-- Maintained the World Cider Map, the industry's most accurate directory of cidermakers. (See my [ciderguide](https://ericallanwest.github.io/smokies/) repository for details.)
+- Maintained the World Cider Map, the industry's most accurate directory of cidermakers. (See my [ciderguide](https://ericallanwest.github.io/ciderguide/) repository for details.)
 - Launched the [C—ertified Cider Professional](https://ciderassociation.org/certification/) education and accreditation program for the American Cider Association.
 - Judged cider at the Royal Bath & West Show, Australian Cider Awards, Virginia Governor's Cup, and other major competitions.
 
@@ -96,7 +96,7 @@ title: "Eric West"
 - Active [intermediate-level](https://dashboard.dupr.com/dashboard/player/6886111230) player with multiple podium finishes in singles league play.
 
 **Great Smoky Mountains 900 Miler Club** (2019-2022)
-- Successful completion of all official hiking trails in the Smokies. (See my [smokies](https://ericallanwest.github.io/smokies/) repository for details.)
+- Successful completion of all official hiking trails in the Smokies. (See my [great-smokies-circuit](https://ericallanwest.github.io/great-smokies-circuit/) repository for details.)
 
 **Earthen Cottage Project** (2008-2019)
 - Built and maintained an off-grid [cob](https://en.wikipedia.org/wiki/Cob_(material)) cottage using solar panels for electricity and a wood-burning stove for heat.
