@@ -1,0 +1,6 @@
+/* Widen the content column so resume bullets wrap less on desktop screens.
+   PaperMod defaults to 720px. Narrower windows still shrink the column, and
+   phones keep the theme's smaller side gap (see zmedia.css). */
+:root {
+    --main-width: 900px;
+}
