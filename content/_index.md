@@ -1,8 +1,8 @@
 ---
 title: "Eric West"
 ---
-## 🗺️ Geospatial
-### 💼 Work Experience
+## 🗺️ Geospatial Career
+### 💼 Experience
 
 **Spatial Analyst** - [WDM USA](https://www.wdm-int.com/) (2025-Present)
 - Developed statewide dashboards that help DOT stakeholders prioritize resurfacing projects to reduce wet weather, lane departure, and other crash types often caused by substandard pavement friction
@@ -44,8 +44,8 @@ title: "Eric West"
 **Sidman P. Poole Endowment** - [Virginia Tech](https://geography.vt.edu/academics/research-funding.html) (2019)
 - Recipient of a funded grant to conduct trails-related fieldwork in Great Smoky Mountains National Park
 
-## 🍎 Cider
-### 💼 Work Experience
+## 🍎 Cider Career
+### 💼 Experience
 
 **Founder** - [Cider Guide](https://web.archive.org/web/20250503044112/https://ciderguide.com/about/) (2012-2024)
 - Podcast host and guest, weekly newsletter publisher, freelance writer, conference speaker, and guided tasting expert
@@ -68,8 +68,8 @@ title: "Eric West"
 
 **Certified Cicerone** - [Cicerone Certification Program](https://www.cicerone.org/) (2012)
 
-## 🏫 Teaching
-### 💼 Work Experience
+## 🏫 Teaching Career
+### 💼 Experience
 
 **Teacher** - Various Schools (2007-2016)
 - Middle school and high school math teacher and elementary school math remediation tutor
@@ -93,9 +93,10 @@ title: "Eric West"
 
 ## ⛰️ Personal Pursuits
 
-**Appalachian Trail Maintenance** (2025-Present)
-- Volunteer maintainer for the [Roanoke Appalachian Trail Club](https://www.ratc.org/) from Bailey Gap Shelter (Mile 660.9) to VA 613 (Mile 664.6) and from Lone Pine Peak (Mile 667.0) to War Spur Connector Trail (Mile 668.0)
+**Trail Maintenance** (2024-Present)
+- [Roanoke Appalachian Trail Club](https://www.ratc.org/) maintainer from Bailey Gap Shelter (Mile 660.9) to VA 613 (Mile 664.6) and from Lone Pine Peak (Mile 667.0) to War Spur Connector Trail (Mile 668.0)
 - Builds on past seasonal employment as Catawba Mountain Ridgerunner for the [Appalachian Trail Conservancy](https://appalachiantrail.org/our-work/conservation/education-and-outreach/about-the-appalachian-trail-ridgerunner-program/) in 2012 and 2015
+- Rehabilitating the neglected Locust Knob Loop Trail in Jefferson National Forest. Outdoors legend Johnny Molloy [writes](https://www.virginia.org/blog/post/discovering-virginias-lesser-outdoor-destinations/) that the hike "delivers everywhere-you-look beauty and a feeling of true wilderness"
 
 **Pickleball** (2024-Present)
 - Active [intermediate-level](https://dashboard.dupr.com/dashboard/player/6886111230) player with multiple podium finishes in singles league play
