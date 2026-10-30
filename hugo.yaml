@@ -3,7 +3,18 @@ languageCode: en-us
 title: "Eric West"
 theme: ["PaperMod"]
 
+menu:
+  main:
+    - name: Résumé
+      url: /
+      weight: 10
+    - name: Projects
+      url: /projects/
+      weight: 20
+
 params:
+  # The home page is the résumé; keep project pages out of its list.
+  mainSections: ["posts"]
   homeInfoParams:
     Title: "Eric West"
     Content: "Geospatial professional and project manager."
