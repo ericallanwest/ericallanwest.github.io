@@ -4,7 +4,7 @@ summary: "Road geometry from public lidar along eastern Kentucky's state routes,
 weight: 6
 ---
 
-**[Open the project →](https://ericallanwest.github.io/ky-road-geometry/)** · [Code](https://github.com/ericallanwest/ky-road-geometry)
+**[Open the project →](https://ericallanwest.github.io/ky-road-geometry/)** · [Crest and sag explorer](https://ericallanwest.github.io/ky-road-geometry/explorer/) · [Code](https://github.com/ericallanwest/ky-road-geometry)
 
 How much friction a road needs depends on its geometry: how sharp its curves are, how steep its
 grades, how much its lanes bank, and how far ahead a driver can see. This project derives all of
@@ -23,3 +23,10 @@ likely driven.
 - **Demand:** braking and cornering combined on the friction circle, plus the friction it takes to
   stop within the sight distance a crest or sag leaves. Demand only: no pavement-supply data and
   no thresholds.
+- **Crashes:** ten years of state police reports, placed on the network. From the least to the
+  most demanding tenth of the road, roadway departures rise from 4 to 32 per 100 million
+  vehicle-miles on wet pavement and from 9 to 49 on dry, while animal crashes, a placebo, fall.
+- **Context:** the USDA's road ruggedness and rurality codes by census tract; the district holds
+  39 of Kentucky's 71 tracts rated highly rugged along their roads.
+- **Explorer:** shape a crest or a sag in the browser and run the project's own sight-distance
+  code on it, checked against AASHTO's formulas.
